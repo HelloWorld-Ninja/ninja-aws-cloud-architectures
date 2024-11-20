@@ -18,7 +18,7 @@ O **HelloWorld.Ninja** é uma comunidade de hackers éticos e profissionais de t
 
 Este repositório está organizado por categorias de serviços AWS. Navegue pelos diretórios para encontrar o que você precisa:
 
-- **`cloud-designs/`**: Este diretório contém **designs completos de arquitetura em nuvem** utilizando serviços da AWS.
+- **`cloud-designs/`**: Designs completos de arquitetura em nuvem utilizando serviços da AWS.
 - **`vpc/`**: Modelos de redes virtuais privadas para ambientes seguros.
 - **`compute/`**: Arquiteturas de serviços como EC2, Lambda, e ECS.
 - **`storage/`**: Configurações para S3, EBS, e outras soluções de armazenamento.
