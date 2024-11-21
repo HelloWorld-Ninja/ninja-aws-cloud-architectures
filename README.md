@@ -35,4 +35,4 @@ Cada diretório contém um arquivo `README.md` explicando como usar os templates
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/helloworld-ninja/ninja-cloud-designs.git
+   git clone [https://github.com/helloworld-ninja/ninja-cloud-designs.git](https://github.com/HelloWorld-Ninja/ninja-aws-cloud-architectures.git)
